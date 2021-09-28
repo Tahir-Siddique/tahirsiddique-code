@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahirsiddique-code
+- 👋 Hi, I’m Tahir Siddique
 - 👀 I’m interested in different types of languages like Python, C#, Java, Dart etc. As well as there are some frameworks in which i'm currently working
 - 🌱 I’m currently learning framweworks of python.
 - 💞️ I’m looking to collaborate on some projects on Django or Flutter.
